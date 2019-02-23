@@ -2,6 +2,19 @@
 <Project Type="Project" LVVersion="18008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
+	<Property Name="varPersistentID:{06E28363-E526-4D2C-9A66-A33E936B790B}" Type="Ref">/NI-myRIO/DeploymentTest.vi/Edge Detect/input 1</Property>
+	<Property Name="varPersistentID:{282B24B6-7D1D-44CC-A289-07AB732FCF79}" Type="Ref">/NI-myRIO/DeploymentTest.vi/Edge Detect/output</Property>
+	<Property Name="varPersistentID:{2B26A1E0-2EB6-4C55-888D-9EA0E8660DF5}" Type="Ref">/NI-myRIO/DeploymentTest.vi/Edge Detect/error in</Property>
+	<Property Name="varPersistentID:{4146F612-8795-4094-A370-1620F9E7E712}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input 1/output</Property>
+	<Property Name="varPersistentID:{46E1E30E-B2FB-4F48-B3EA-FB847076289D}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input/output</Property>
+	<Property Name="varPersistentID:{6B3BEE88-56CC-4E84-8BB2-C5F8573CF30B}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input 1/input</Property>
+	<Property Name="varPersistentID:{786EC49B-36E9-4FAA-AB3A-AEF64477C7D2}" Type="Ref">/NI-myRIO/DeploymentTest.vi/Edge Detect/input 2</Property>
+	<Property Name="varPersistentID:{7D92590F-F227-4056-956C-5418CFEC4628}" Type="Ref">/NI-myRIO/DeploymentTest.vi/Edge Detect/error out</Property>
+	<Property Name="varPersistentID:{8FC1486A-3243-4372-B6E3-163FD60D6C89}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input 1/error out</Property>
+	<Property Name="varPersistentID:{9E3F81C5-87CD-4550-A6F7-C4939DEF63B6}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input/error in</Property>
+	<Property Name="varPersistentID:{D0F2239D-1976-473D-992E-0DC1369EDC64}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input/input</Property>
+	<Property Name="varPersistentID:{DE070BE2-8C6D-4985-B5EE-96510D2FE81A}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input/error out</Property>
+	<Property Name="varPersistentID:{F190C29F-3ECB-4EE2-BE02-7370A41051CD}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input 1/error in</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
 		<Property Name="IOScan.NetVarPeriod" Type="UInt">100</Property>
@@ -108,7 +121,27 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
-		<Item Name="DeploymentTest.vi" Type="VI" URL="../DeploymentTest.vi"/>
+		<Item Name="DeploymentTest.vi" Type="VI" URL="../DeploymentTest.vi">
+			<Item Name="Edge Detect" Type="IIO Function Block">
+				<Item Name="error in" Type="Variable"/>
+				<Item Name="error out" Type="Variable"/>
+				<Item Name="input 1" Type="Variable"/>
+				<Item Name="input 2" Type="Variable"/>
+				<Item Name="output" Type="Variable"/>
+			</Item>
+			<Item Name="One Shot Rising with Input" Type="IIO Function Block">
+				<Item Name="error in" Type="Variable"/>
+				<Item Name="error out" Type="Variable"/>
+				<Item Name="input" Type="Variable"/>
+				<Item Name="output" Type="Variable"/>
+			</Item>
+			<Item Name="One Shot Rising with Input 1" Type="IIO Function Block">
+				<Item Name="error in" Type="Variable"/>
+				<Item Name="error out" Type="Variable"/>
+				<Item Name="input" Type="Variable"/>
+				<Item Name="output" Type="Variable"/>
+			</Item>
+		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
