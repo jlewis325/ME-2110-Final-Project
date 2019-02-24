@@ -3,35 +3,31 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Property Name="varPersistentID:{06E28363-E526-4D2C-9A66-A33E936B790B}" Type="Ref">/NI-myRIO/DeploymentTest.vi/Edge Detect/input 1</Property>
-	<Property Name="varPersistentID:{08BC6785-776A-4326-94F6-3C399EB9650F}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input 1/error in</Property>
+	<Property Name="varPersistentID:{120248C3-3DA2-4117-9BA7-68F32E7E7002}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input/input</Property>
+	<Property Name="varPersistentID:{1A166B8B-9E77-44D1-BE22-F4A140EE77F5}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input/output</Property>
 	<Property Name="varPersistentID:{282B24B6-7D1D-44CC-A289-07AB732FCF79}" Type="Ref">/NI-myRIO/DeploymentTest.vi/Edge Detect/output</Property>
 	<Property Name="varPersistentID:{2B26A1E0-2EB6-4C55-888D-9EA0E8660DF5}" Type="Ref">/NI-myRIO/DeploymentTest.vi/Edge Detect/error in</Property>
 	<Property Name="varPersistentID:{4146F612-8795-4094-A370-1620F9E7E712}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input 1/output</Property>
 	<Property Name="varPersistentID:{46E1E30E-B2FB-4F48-B3EA-FB847076289D}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input/output</Property>
-	<Property Name="varPersistentID:{5377B07F-FB2D-4EBC-B14F-2E77D998F009}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input/error in</Property>
-	<Property Name="varPersistentID:{5F014E67-4659-4159-9432-615EDFEA08DB}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Falling With Input/error in</Property>
+	<Property Name="varPersistentID:{49491056-44B6-47C5-87BA-7F6FD0527FA9}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/Edge Detect/output</Property>
+	<Property Name="varPersistentID:{517ECB70-2E9A-4F90-9CEB-F336AF4AACDD}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/Edge Detect/input 1</Property>
+	<Property Name="varPersistentID:{60355A9C-0BD4-494E-950E-C7F23CB81824}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input 1/error out</Property>
 	<Property Name="varPersistentID:{6B3BEE88-56CC-4E84-8BB2-C5F8573CF30B}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input 1/input</Property>
-	<Property Name="varPersistentID:{6B930EC5-5EB7-434A-9212-5411A2DCC235}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input/error out</Property>
-	<Property Name="varPersistentID:{6BA1C79D-35E0-4796-9B10-BF884D4E50C2}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input 1/input</Property>
-	<Property Name="varPersistentID:{749FF57F-60BF-42CA-BB1C-98BD9FFF235A}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Falling With Input/input</Property>
-	<Property Name="varPersistentID:{74CC1270-EE2E-4EE2-AB76-07F2C3A819B3}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Falling With Input/output</Property>
-	<Property Name="varPersistentID:{77F9F20A-855C-4045-AFD1-905615496739}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input/input</Property>
+	<Property Name="varPersistentID:{6C8C9533-84B5-4278-8CC5-FF0B5C55EEF2}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input/error out</Property>
+	<Property Name="varPersistentID:{779BC640-D1D4-4756-B5B9-FFF10829F932}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/Edge Detect/input 2</Property>
 	<Property Name="varPersistentID:{786EC49B-36E9-4FAA-AB3A-AEF64477C7D2}" Type="Ref">/NI-myRIO/DeploymentTest.vi/Edge Detect/input 2</Property>
-	<Property Name="varPersistentID:{7AE291E5-8C38-4613-A360-28A9901DAE92}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/Edge Detect/input 2</Property>
 	<Property Name="varPersistentID:{7D92590F-F227-4056-956C-5418CFEC4628}" Type="Ref">/NI-myRIO/DeploymentTest.vi/Edge Detect/error out</Property>
-	<Property Name="varPersistentID:{81AC3700-A739-4AD8-8C69-FE3B85A00826}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input 1/error out</Property>
-	<Property Name="varPersistentID:{8DEBABB4-905E-4E3C-BD28-7A47AEF971FA}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Falling With Input/error out</Property>
 	<Property Name="varPersistentID:{8FC1486A-3243-4372-B6E3-163FD60D6C89}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input 1/error out</Property>
+	<Property Name="varPersistentID:{9D2827F6-8FD0-480F-B08C-062714B64516}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/Edge Detect/error out</Property>
 	<Property Name="varPersistentID:{9E3F81C5-87CD-4550-A6F7-C4939DEF63B6}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input/error in</Property>
-	<Property Name="varPersistentID:{A000611C-B089-498A-ADE3-BB9BCFC442D7}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/Edge Detect/output</Property>
-	<Property Name="varPersistentID:{BCB0CD87-D968-43ED-A362-BD83A74E4BCC}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input/output</Property>
+	<Property Name="varPersistentID:{B726611A-BEB4-49BA-91FD-21F9AA5A72BE}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input/error in</Property>
+	<Property Name="varPersistentID:{C7C3FCEA-7B8E-4DB2-8686-C5C8D805EFA7}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input 1/input</Property>
+	<Property Name="varPersistentID:{CBDDFA7E-71BB-4A71-9930-573014D1A266}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input 1/error in</Property>
 	<Property Name="varPersistentID:{D0F2239D-1976-473D-992E-0DC1369EDC64}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input/input</Property>
+	<Property Name="varPersistentID:{D61312EF-51DA-450C-B631-2B88ABE3D7CB}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input 1/output</Property>
 	<Property Name="varPersistentID:{DE070BE2-8C6D-4985-B5EE-96510D2FE81A}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input/error out</Property>
-	<Property Name="varPersistentID:{E3C4F315-6573-4C9A-AEA9-3E55D6EFDFEF}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input 1/output</Property>
-	<Property Name="varPersistentID:{EB455C2F-5426-4D7A-977F-FB7B2C2C2FB9}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/Edge Detect/error in</Property>
+	<Property Name="varPersistentID:{ED4D5CF0-B634-446C-B3B1-4B8142BEC61D}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/Edge Detect/error in</Property>
 	<Property Name="varPersistentID:{F190C29F-3ECB-4EE2-BE02-7370A41051CD}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input 1/error in</Property>
-	<Property Name="varPersistentID:{F9C2E473-2763-441D-8236-75F0BB693057}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/Edge Detect/input 1</Property>
-	<Property Name="varPersistentID:{FCEC9CA7-98B1-4ABB-9331-9BD0BB4088A1}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/Edge Detect/error out</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
 		<Property Name="IOScan.NetVarPeriod" Type="UInt">100</Property>
@@ -87,7 +83,7 @@
 		<Property Name="target.RTTarget.ApplicationPath" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
 		<Property Name="target.RTTarget.EnableFileSharing" Type="Bool">true</Property>
 		<Property Name="target.RTTarget.IPAccess" Type="Str">+*</Property>
-		<Property Name="target.RTTarget.LaunchAppAtBoot" Type="Bool">true</Property>
+		<Property Name="target.RTTarget.LaunchAppAtBoot" Type="Bool">false</Property>
 		<Property Name="target.RTTarget.VIPath" Type="Path">/c/ni-rt/startup</Property>
 		<Property Name="target.server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="target.server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -144,12 +140,6 @@ AddOutputFilter chunkFilter
 				<Item Name="error out" Type="Variable"/>
 				<Item Name="input 1" Type="Variable"/>
 				<Item Name="input 2" Type="Variable"/>
-				<Item Name="output" Type="Variable"/>
-			</Item>
-			<Item Name="One Shot Falling With Input" Type="IIO Function Block">
-				<Item Name="error in" Type="Variable"/>
-				<Item Name="error out" Type="Variable"/>
-				<Item Name="input" Type="Variable"/>
 				<Item Name="output" Type="Variable"/>
 			</Item>
 			<Item Name="One Shot Rising with Input" Type="IIO Function Block">
@@ -308,49 +298,6 @@ AddOutputFilter chunkFilter
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 		</Item>
-		<Item Name="Build Specifications" Type="Build">
-			<Item Name="My Real-Time Application" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
-				<Property Name="App_copyErrors" Type="Bool">true</Property>
-				<Property Name="App_INI_aliasGUID" Type="Str">{E8A4A690-9A82-4003-925F-0EE5944029FB}</Property>
-				<Property Name="App_INI_GUID" Type="Str">{11F31D90-76D0-400E-A9A9-D01B15CFE579}</Property>
-				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
-				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
-				<Property Name="Bld_buildCacheID" Type="Str">{763FD546-2681-4BDC-8AAD-2AC0375A02B6}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">My Real-Time Application</Property>
-				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
-				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
-				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/NI_AB_TARGETNAME/My Real-Time Application</Property>
-				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
-				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
-				<Property Name="Bld_previewCacheID" Type="Str">{E9F015E9-BB9B-47B6-9C53-FF650F431374}</Property>
-				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
-				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
-				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
-				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
-				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
-				<Property Name="Destination[0].type" Type="Str">App</Property>
-				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">/home/lvuser/natinst/bin/data</Property>
-				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
-				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{A11CF6ED-0324-4332-828C-420AF27A526F}</Property>
-				<Property Name="Source[0].type" Type="Str">Container</Property>
-				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi</Property>
-				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
-				<Property Name="Source[1].type" Type="Str">VI</Property>
-				<Property Name="SourceCount" Type="Int">2</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">My Real-Time Application</Property>
-				<Property Name="TgtF_internalName" Type="Str">My Real-Time Application</Property>
-				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2019 </Property>
-				<Property Name="TgtF_productName" Type="Str">My Real-Time Application</Property>
-				<Property Name="TgtF_targetfileGUID" Type="Str">{E3630A0D-F5A7-45E8-BC32-69B7370590B3}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">startup.rtexe</Property>
-				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
-			</Item>
-		</Item>
+		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
