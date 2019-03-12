@@ -323,11 +323,11 @@ AddOutputFilter chunkFilter
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="My Real-Time Application" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
-				<Property Name="App_INI_aliasGUID" Type="Str">{75D94465-2886-48D3-90BC-1E288658CDF4}</Property>
-				<Property Name="App_INI_GUID" Type="Str">{54348ACC-A58C-4965-8A88-311A225FACA5}</Property>
+				<Property Name="App_INI_aliasGUID" Type="Str">{A51242C4-84DE-4F4A-ADD6-85088AE320ED}</Property>
+				<Property Name="App_INI_GUID" Type="Str">{85074B56-FE9B-42BE-98AA-E701E82825CA}</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
-				<Property Name="Bld_buildCacheID" Type="Str">{0F702FC8-CBF6-4AE1-9861-4951A7F37FC1}</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{4225A9E7-1DAA-4365-8C22-3C553FEB7276}</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">My Real-Time Application</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
@@ -335,7 +335,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME/NI_AB_TARGETNAME/My Real-Time Application</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
-				<Property Name="Bld_previewCacheID" Type="Str">{64AE7E26-5288-434D-902A-F958490EF5C9}</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{7D7D3430-56EC-47EE-814E-DF631AE249E5}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
 				<Property Name="Bld_version.build" Type="Int">1</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
@@ -348,7 +348,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Destination[1].path" Type="Path">/home/lvuser/natinst/bin/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{FF6154A3-D684-473E-B3C8-6A2F19617372}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{FE4B3DBE-2117-493F-8750-0E1971B3E4AD}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi</Property>
@@ -359,7 +359,7 @@ AddOutputFilter chunkFilter
 				<Property Name="TgtF_internalName" Type="Str">My Real-Time Application</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2019 </Property>
 				<Property Name="TgtF_productName" Type="Str">My Real-Time Application</Property>
-				<Property Name="TgtF_targetfileGUID" Type="Str">{D3620AAB-15B4-4F68-9E18-7640F04897C1}</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{E6549078-3267-4498-A576-EE41DA968B66}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">startup.rtexe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
