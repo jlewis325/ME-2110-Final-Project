@@ -2,53 +2,49 @@
 <Project Type="Project" LVVersion="18008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
-	<Property Name="varPersistentID:{021E93CE-8F1D-403A-B7BC-696DD14A1D87}" Type="Ref">/NI-myRIO/QualifyingCode.vi/Edge Detect/input 1</Property>
 	<Property Name="varPersistentID:{06E28363-E526-4D2C-9A66-A33E936B790B}" Type="Ref">/NI-myRIO/DeploymentTest.vi/Edge Detect/input 1</Property>
+	<Property Name="varPersistentID:{07079BFB-FD56-498B-8539-CA000E6C9D8D}" Type="Ref">/NI-myRIO/QualifyingCode.vi/One Shot Rising with Input/error out</Property>
 	<Property Name="varPersistentID:{0A02A878-7E12-4B64-8D04-105F968CA1FF}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input/error in</Property>
-	<Property Name="varPersistentID:{1250883A-2F40-471B-8024-C27CD4ADB213}" Type="Ref">/NI-myRIO/QualifyingCode.vi/One Shot Rising with Input 1/error in</Property>
-	<Property Name="varPersistentID:{15611EC7-2811-47CD-9D6F-2A627EEDCC89}" Type="Ref">/NI-myRIO/QualifyingCode.vi/One Shot Rising with Input 1/error out</Property>
+	<Property Name="varPersistentID:{0B629DA5-D0DC-4272-AC90-47E406AF8FA7}" Type="Ref">/NI-myRIO/QualifyingCode.vi/Edge Detect 1/error in</Property>
 	<Property Name="varPersistentID:{1B664CA5-5A32-4503-ABA3-6A422B51CEFF}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input 1/error in</Property>
 	<Property Name="varPersistentID:{1C372255-92AF-492A-B5BD-7F9776BA8033}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input 1/error out</Property>
-	<Property Name="varPersistentID:{1F4989F2-C790-4E9E-8F9F-86CF36DF5D32}" Type="Ref">/NI-myRIO/QualifyingCode.vi/One Shot Rising with Input 2/error out</Property>
+	<Property Name="varPersistentID:{2588B679-33BF-4EA8-BEC3-71E6B203C6B7}" Type="Ref">/NI-myRIO/QualifyingCode.vi/Edge Detect/input 1</Property>
 	<Property Name="varPersistentID:{282B24B6-7D1D-44CC-A289-07AB732FCF79}" Type="Ref">/NI-myRIO/DeploymentTest.vi/Edge Detect/output</Property>
 	<Property Name="varPersistentID:{2B26A1E0-2EB6-4C55-888D-9EA0E8660DF5}" Type="Ref">/NI-myRIO/DeploymentTest.vi/Edge Detect/error in</Property>
-	<Property Name="varPersistentID:{30232536-01BE-4E3A-ABCF-0CB21BFDF217}" Type="Ref">/NI-myRIO/QualifyingCode.vi/Edge Detect/input 2</Property>
-	<Property Name="varPersistentID:{3190D56F-5E04-4E21-8BA1-6D922F1A83A3}" Type="Ref">/NI-myRIO/QualifyingCode.vi/Edge Detect 1/input 2</Property>
-	<Property Name="varPersistentID:{329B3E31-CD5F-4068-A54E-C89C4A298747}" Type="Ref">/NI-myRIO/QualifyingCode.vi/One Shot Rising with Input 2/input</Property>
-	<Property Name="varPersistentID:{33010B8F-8EB0-43C0-AA8C-945AA040F854}" Type="Ref">/NI-myRIO/QualifyingCode.vi/One Shot Rising with Input 1/input</Property>
+	<Property Name="varPersistentID:{3315D45B-178F-4379-AD8D-FBF96BF325E3}" Type="Ref">/NI-myRIO/QualifyingCode.vi/Edge Detect 1/error out</Property>
 	<Property Name="varPersistentID:{3B841BA2-D0F2-4186-A69E-0EB14E8C86C4}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input/output</Property>
 	<Property Name="varPersistentID:{4146F612-8795-4094-A370-1620F9E7E712}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input 1/output</Property>
-	<Property Name="varPersistentID:{42F09726-1C74-4EB8-970E-5CE6B960630A}" Type="Ref">/NI-myRIO/QualifyingCode.vi/Edge Detect/error out</Property>
 	<Property Name="varPersistentID:{46E1E30E-B2FB-4F48-B3EA-FB847076289D}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input/output</Property>
 	<Property Name="varPersistentID:{51B2F92D-F324-49DE-AC56-1A082AABA455}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/Edge Detect/error out</Property>
 	<Property Name="varPersistentID:{5DABCE2A-158A-4677-A577-111377EE85E0}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/Edge Detect/error in</Property>
 	<Property Name="varPersistentID:{6738A014-55D5-4EE2-9136-605D4ED298A9}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/Edge Detect/input 1</Property>
-	<Property Name="varPersistentID:{6AB02E38-5F5C-4357-9AC8-FF334D8CB1C4}" Type="Ref">/NI-myRIO/QualifyingCode.vi/Edge Detect 1/output</Property>
+	<Property Name="varPersistentID:{69FE433C-561C-4475-9E83-2E5D2775A7D3}" Type="Ref">/NI-myRIO/QualifyingCode.vi/One Shot Rising with Input 1/error out</Property>
 	<Property Name="varPersistentID:{6B3BEE88-56CC-4E84-8BB2-C5F8573CF30B}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input 1/input</Property>
-	<Property Name="varPersistentID:{73111DCE-B2AB-4B09-8E42-D37E80358987}" Type="Ref">/NI-myRIO/QualifyingCode.vi/One Shot Rising with Input 1/output</Property>
+	<Property Name="varPersistentID:{6CC1C5D0-B1AD-4CFA-B64D-930E401F52C2}" Type="Ref">/NI-myRIO/QualifyingCode.vi/Edge Detect/output</Property>
+	<Property Name="varPersistentID:{76D2B7B1-D60F-4E49-B016-46406C21D607}" Type="Ref">/NI-myRIO/QualifyingCode.vi/One Shot Rising with Input 1/error in</Property>
 	<Property Name="varPersistentID:{786EC49B-36E9-4FAA-AB3A-AEF64477C7D2}" Type="Ref">/NI-myRIO/DeploymentTest.vi/Edge Detect/input 2</Property>
-	<Property Name="varPersistentID:{78767992-A4A6-4D66-B81F-AE8E154F43C0}" Type="Ref">/NI-myRIO/QualifyingCode.vi/Edge Detect 1/error out</Property>
+	<Property Name="varPersistentID:{7A2986CA-2E22-4ED1-801C-80D5086807A6}" Type="Ref">/NI-myRIO/QualifyingCode.vi/Edge Detect/input 2</Property>
 	<Property Name="varPersistentID:{7B8CAF60-E278-4355-8953-0D8DB78CBA6F}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/Edge Detect/input 2</Property>
 	<Property Name="varPersistentID:{7D92590F-F227-4056-956C-5418CFEC4628}" Type="Ref">/NI-myRIO/DeploymentTest.vi/Edge Detect/error out</Property>
-	<Property Name="varPersistentID:{86AD9512-0994-404C-A80D-B6D2AEBBB50C}" Type="Ref">/NI-myRIO/QualifyingCode.vi/One Shot Rising with Input/output</Property>
-	<Property Name="varPersistentID:{8A65BCF5-1854-445F-BD8E-6486BE9D908A}" Type="Ref">/NI-myRIO/QualifyingCode.vi/Edge Detect/error in</Property>
 	<Property Name="varPersistentID:{8E0D0945-ED7D-41C4-B7F3-291EB1AFDF36}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input/input</Property>
 	<Property Name="varPersistentID:{8FC1486A-3243-4372-B6E3-163FD60D6C89}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input 1/error out</Property>
-	<Property Name="varPersistentID:{97FAB86F-7CF8-4CAA-87FE-DD7564C327D3}" Type="Ref">/NI-myRIO/QualifyingCode.vi/One Shot Rising with Input 2/output</Property>
-	<Property Name="varPersistentID:{9B625A63-33B9-4FB0-BBC4-03A9C7EA05E6}" Type="Ref">/NI-myRIO/QualifyingCode.vi/One Shot Rising with Input/input</Property>
 	<Property Name="varPersistentID:{9E3F81C5-87CD-4550-A6F7-C4939DEF63B6}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input/error in</Property>
+	<Property Name="varPersistentID:{9EA46B43-9A7A-40DE-83EB-B58FE35C8EC9}" Type="Ref">/NI-myRIO/QualifyingCode.vi/One Shot Rising with Input/output</Property>
 	<Property Name="varPersistentID:{A009AC12-33CB-4233-A7E6-0011169EF8AD}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input/error out</Property>
+	<Property Name="varPersistentID:{A59A2662-0929-4ED0-AA40-B326B8128853}" Type="Ref">/NI-myRIO/QualifyingCode.vi/Edge Detect 1/input 2</Property>
+	<Property Name="varPersistentID:{A63835D2-BE65-4E3C-A7AA-0CD4CFCEF118}" Type="Ref">/NI-myRIO/QualifyingCode.vi/One Shot Rising with Input 1/output</Property>
 	<Property Name="varPersistentID:{B30BDA1F-55E9-4149-B498-D8A8E47991B1}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input 1/output</Property>
-	<Property Name="varPersistentID:{B544089C-1D18-446D-B654-C0A681C0385C}" Type="Ref">/NI-myRIO/QualifyingCode.vi/Edge Detect/output</Property>
-	<Property Name="varPersistentID:{B962E804-B600-4659-96FF-EDA62C6C086B}" Type="Ref">/NI-myRIO/QualifyingCode.vi/One Shot Rising with Input/error in</Property>
-	<Property Name="varPersistentID:{C5BC3D69-8A13-400F-AE5B-1D34C3D22C5D}" Type="Ref">/NI-myRIO/QualifyingCode.vi/Edge Detect 1/input 1</Property>
+	<Property Name="varPersistentID:{B9DAD1EA-3278-4B8E-B42F-DFF9FB35AB69}" Type="Ref">/NI-myRIO/QualifyingCode.vi/One Shot Rising with Input/error in</Property>
+	<Property Name="varPersistentID:{BAA8F382-A91C-421D-9A9B-7EFE03B3BC89}" Type="Ref">/NI-myRIO/QualifyingCode.vi/One Shot Rising with Input/input</Property>
 	<Property Name="varPersistentID:{D0F2239D-1976-473D-992E-0DC1369EDC64}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input/input</Property>
 	<Property Name="varPersistentID:{DE070BE2-8C6D-4985-B5EE-96510D2FE81A}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input/error out</Property>
+	<Property Name="varPersistentID:{E1BA6B5B-B9B6-4695-B487-261216F8E355}" Type="Ref">/NI-myRIO/QualifyingCode.vi/One Shot Rising with Input 1/input</Property>
+	<Property Name="varPersistentID:{E7F389B9-7998-4BC0-821F-334711FD3B1B}" Type="Ref">/NI-myRIO/QualifyingCode.vi/Edge Detect/error in</Property>
+	<Property Name="varPersistentID:{EF7CA0CB-6F45-4665-8065-E0D0A06510BB}" Type="Ref">/NI-myRIO/QualifyingCode.vi/Edge Detect 1/input 1</Property>
 	<Property Name="varPersistentID:{F190C29F-3ECB-4EE2-BE02-7370A41051CD}" Type="Ref">/NI-myRIO/DeploymentTest.vi/One Shot Rising with Input 1/error in</Property>
 	<Property Name="varPersistentID:{F39BF4BB-9F8B-477E-B9E8-418BA05E7CE8}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/Edge Detect/output</Property>
-	<Property Name="varPersistentID:{F69104E1-0E56-45F8-9B69-9FD39984148A}" Type="Ref">/NI-myRIO/QualifyingCode.vi/One Shot Rising with Input 2/error in</Property>
-	<Property Name="varPersistentID:{F75B68C5-D3A2-44E9-8796-ECC6C9F1F737}" Type="Ref">/NI-myRIO/QualifyingCode.vi/Edge Detect 1/error in</Property>
-	<Property Name="varPersistentID:{FD1575EE-2FCF-4F5B-B1BD-95F6AB84F59D}" Type="Ref">/NI-myRIO/QualifyingCode.vi/One Shot Rising with Input/error out</Property>
+	<Property Name="varPersistentID:{F40EC17D-A9E4-452B-940A-F0F4C7259E9A}" Type="Ref">/NI-myRIO/QualifyingCode.vi/Edge Detect/error out</Property>
+	<Property Name="varPersistentID:{FD644D65-D3C8-42CE-BD05-2814A83E2295}" Type="Ref">/NI-myRIO/QualifyingCode.vi/Edge Detect 1/output</Property>
 	<Property Name="varPersistentID:{FF33BEB6-7A14-4111-BC69-E4AEF20A4B59}" Type="Ref">/NI-myRIO/DeploymentTest-ModifiedTiming.vi/One Shot Rising with Input 1/input</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
@@ -105,7 +101,7 @@
 		<Property Name="target.RTTarget.ApplicationPath" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
 		<Property Name="target.RTTarget.EnableFileSharing" Type="Bool">true</Property>
 		<Property Name="target.RTTarget.IPAccess" Type="Str">+*</Property>
-		<Property Name="target.RTTarget.LaunchAppAtBoot" Type="Bool">false</Property>
+		<Property Name="target.RTTarget.LaunchAppAtBoot" Type="Bool">true</Property>
 		<Property Name="target.RTTarget.VIPath" Type="Path">/c/ni-rt/startup</Property>
 		<Property Name="target.server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="target.server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -222,12 +218,6 @@ AddOutputFilter chunkFilter
 				<Item Name="output" Type="Variable"/>
 			</Item>
 			<Item Name="One Shot Rising with Input 1" Type="IIO Function Block">
-				<Item Name="error in" Type="Variable"/>
-				<Item Name="error out" Type="Variable"/>
-				<Item Name="input" Type="Variable"/>
-				<Item Name="output" Type="Variable"/>
-			</Item>
-			<Item Name="One Shot Rising with Input 2" Type="IIO Function Block">
 				<Item Name="error in" Type="Variable"/>
 				<Item Name="error out" Type="Variable"/>
 				<Item Name="input" Type="Variable"/>
@@ -394,7 +384,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{BE6444AF-DEF3-4D2E-A137-C45FE0C81955}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
@@ -405,7 +395,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Destination[1].path" Type="Path">/home/lvuser/natinst/bin/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{A9CE28F0-7FFE-4956-BDCB-905B59C17BB0}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{E230865E-E643-469E-84D5-1BB2BDF66931}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/NI-myRIO/QualifyingCode.vi</Property>
